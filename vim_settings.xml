@@ -1,0 +1,36 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Python Console" timestamp="1534345121183">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/pycharm backup/First_python/Sample_1/Create_Array_1.py" timestamp="1534346285224">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Employee Management/Manage Project/First_employee.py" timestamp="1534441604164">
+        <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/New/venv/test.py" timestamp="1534345087481">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Employee Management/Manage Project/First_employee.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Employee Management/Manage Project/First_employee.py" />
+    </jumps>
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

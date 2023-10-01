@@ -1,4 +1,4 @@
-# This is to explain how sets work in Python test
+# This is to explain how sets work in Python test 1
 import sys
 country = { "India", "Pakistan", "China", "Bangladesh", "Indonesia", "South Korea", "SriLanka" }
 state = {"West Bengal", "Delhi", "Karnataka", "Madhya pradesh", "Arunachal"}
